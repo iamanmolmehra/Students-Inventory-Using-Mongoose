@@ -1,0 +1,16 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose_start.js",
+  "scripts": {
+    "test": "mongoose_start.js",
+    "start": "nodemon mongoose.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
+}

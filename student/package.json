@@ -1,0 +1,16 @@
+{
+  "name": "student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "student.js",
+  "scripts": {
+    "test": "app_students.js",
+    "start": "nodemon app_students.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
